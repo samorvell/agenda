@@ -2,8 +2,8 @@ package br.com.samorvell.agenda.model;
 
 public enum StatusContato {
 	
-	Novo("Novo"),
-	Atualizado("Atualizado");
+	NOVO("Novo"),
+	ATUALIZADO("Atualizado");
 	
 	private String status;
 
